@@ -1,0 +1,241 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - RoomLight
+  - SamplesInfoPanel
+  - LC
+  - Lamp
+  - Piston1
+  - ConnectingRod1
+  - PistonPin1
+  - ConnectingRodBearing1
+  - PistonScrew1[1]
+  - PistonScrew2[1]
+  - PistonCase[1]
+  - Piston 1
+  - Piston2
+  - ConnectingRod2
+  - PistonPin2
+  - ConnectingRodBearing2
+  - PistonScrew1[2]
+  - PistonScrew2[2]
+  - PistonCase[2]
+  - Piston 2
+  - Piston3
+  - ConnectingRod3
+  - PistonPin3
+  - ConnectingRodBearing3
+  - PistonScrew1[3]
+  - PistonScrew2[3]
+  - PistonCase[3]
+  - Piston 3
+  - Piston4
+  - ConnectingRod4
+  - PistonPin4
+  - ConnectingRodBearing4
+  - PistonScrew1[4]
+  - PistonScrew2[4]
+  - PistonCase[4]
+  - Piston 4
+  - CylinderBlock
+  - Crankshaft
+  - CrankshaftSprocketGear
+  - Crankcase
+  - Flywheel
+  - FlywheelScrew
+  - Valve1[1]
+  - ValveCover1[1]
+  - ValveSpring1[1]
+  - ValveCap1[1]
+  - Valve2[1]
+  - ValveCover2[1]
+  - ValveSpring2[1]
+  - ValveCap2[1]
+  - Valve1[2]
+  - ValveCover1[2]
+  - ValveSpring1[2]
+  - ValveCap1[2]
+  - Valve2[2]
+  - ValveCover2[2]
+  - ValveSpring2[2]
+  - ValveCap2[2]
+  - Valve1[3]
+  - ValveCover1[3]
+  - ValveSpring1[3]
+  - ValveCap1[3]
+  - Valve2[3]
+  - ValveCover2[3]
+  - ValveSpring2[3]
+  - ValveCap2[3]
+  - Valve1[4]
+  - ValveCover1[4]
+  - ValveSpring1[4]
+  - ValveCap1[4]
+  - Valve2[4]
+  - ValveCover2[4]
+  - ValveSpring2[4]
+  - ValveCap2[4]
+  - ExhaustValve 1[1]
+  - IntakeValve 2[1]
+  - ExhaustValve 1[2]
+  - IntakeValve 2[2]
+  - IntakeValve 1[3]
+  - ExhaustValve 2[3]
+  - ExhaustValve 2[4]
+  - IntakeValve 1[4]
+  - CylinderHeadGasket
+  - Camshaft
+  - CylinderHead
+  - CamshaftPulley
+  - TimingBeltPulley
+  - CamshaftPulley2
+  - IntakeManifold
+  - IntakeManifoldScrew
+  - ExhaustManifold
+  - ExhaustManifoldScrew
+  - CylinderHeadCover
+  - EngineOilLid
+  - ClutchPressingHousing
+  - ShockAbsorberFL
+  - ShockAbsorberCylinderFL
+  - ColumnFixingFL
+  - SuspensionSpringFL
+  - ShockAbsorberFR
+  - ShockAbsorberCylinderFR
+  - SuspensionSpringFR
+  - ShockAbsorberRL
+  - ShockAbsorberCylinderRL
+  - ColumnFixingRL
+  - SuspensionSpringRL
+  - ShockAbsorberRR
+  - ShockAbsorberCylinderRR
+  - SuspensionSpringRR
+  - AxleRL
+  - JointCoverRL
+  - AxleRR
+  - JointCoverRR
+  - AxleFL
+  - JointCoverFL
+  - AxleFR
+  - JointCoverFR
+  - ClutchDisc
+  - ThrustBearingRaceway1FL
+  - ThrustBearingRaceway2FL
+  - RollingElements1FL
+  - CageThrust1FL
+  - ThrustBearingRaceway1FL[2]
+  - ThrustBearingRaceway2FL[2]
+  - RollingElements2FL
+  - CageThrust2FL
+  - ThrustBearingRaceway1FR
+  - ThrustBearingRaceway2FR
+  - RollingElements1FR
+  - CageThrust1FR
+  - ThrustBearingRaceway1FR[2]
+  - ThrustBearingRaceway2FR[2]
+  - RollingElements2FR
+  - CageThrust2FR
+  - ThrustBearingRaceway1RL
+  - ThrustBearingRaceway2RL
+  - RollingElements1RL
+  - CageThrust1RL
+  - ThrustBearingRaceway1RL[2]
+  - ThrustBearingRaceway2RL[2]
+  - RollingElements2RL
+  - CageThrust2RL
+  - ThrustBearingRaceway1RR
+  - ThrustBearingRaceway2RR
+  - RollingElements1RR
+  - CageThrust1RR
+  - ThrustBearingRaceway1RR[2]
+  - ThrustBearingRaceway2RR[2]
+  - RollingElements2RR
+  - CageThrust2RR
+  - FrontFoldingDriveShaft
+  - RearFoldingDriveShaft
+  - BearingSuspensionFR
+  - BearingSuspensionFL
+  - FrameMountingFrontSuspension.1
+  - FrameMountingFrontSuspension.2
+  - FrameMountingFrontSuspension.3
+  - FrameMountingFrontSuspension.4
+  - FrontSaddleFrontSuspension.1
+  - FrontSaddleFrontSuspension.2
+  - FrontUpperSuspensionFrame
+  - FrontLowerSuspensionFrame
+  - BearingSuspensionRR
+  - BearingSuspensionRL
+  - FrameMountingRearSuspension.1
+  - FrameMountingRearSuspension.2
+  - FrameMountingRearSuspension.3
+  - FrameMountingRearSuspension.4
+  - RearLowerSuspensionFrame
+  - RearUpperSuspensionFrame
+  - FrontSaddleRearSuspension.1
+  - FrontSaddleRearSuspension.2
+  - BrakeDiscFL
+  - BrakeDiscFR
+  - BrakeDiscRL
+  - BrakeDiscRR
+  - HousingReducerRear
+  - HousingReducerFront
+  - TransferGearAssembly.1
+  - TransferGearAssembly.2
+  - ShaftAssemblyInputReducer
+  - ShaftAssemblyOutputReducer
+  - GearboxCover
+  - Gearbox
+  - FrontAbsorberFL
+  - FrontAbsorberFR
+  - AbsorberRR
+  - AbsorberFR
+  - ColumnFL
+  - RearAbsorberRR
+  - AbsorberRL
+  - RearAbsorberRL
+  - AbsorberFL
+  - ColumnFR
+  - Suspension(1)
+  - Suspension(2)
+  - Suspension(3)
+  - Suspension(4)
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Teleport
+  - Water
+  - UI
+  - Interactables
+  - Player
+  - Door
+  - Piston
+  - Suspension
+  - TriggerZone
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
